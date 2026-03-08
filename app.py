@@ -624,7 +624,7 @@ elif "🌟  Additional" in page:
     items = [
         ("🏆", "Case Competition",  "2nd Place — RBAC × Calian Ltd. Data Analytics Case Competition, using Python and Power BI to deliver actionable data strategy."),
         ("🏸", "Athletics",         "3rd Place — BC High School Badminton Tournament as a key member of the school team."),
-        ("♟️", "Chess",             "Ranked Top 9% worldwide in rapid games on chess.com — strategic thinking and pattern recognition."),
+        ("♟️", "Chess",             "Ranked Top 7% worldwide in rapid games on chess.com — strategic thinking and pattern recognition."),
         ("🍡", "Entrepreneurship",  "Generated $4,000 in revenue by selling homemade Asian snacks — initiative, resourcefulness, business acumen."),
         ("🌐", "Languages",         "Fluent in both English and Mandarin, enabling cross-cultural collaboration in international environments."),
     ]
